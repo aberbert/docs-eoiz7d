@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-14k448.jdcouverture31.fr/sitemap.xml
